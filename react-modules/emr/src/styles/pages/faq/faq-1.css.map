@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAeQ,gCAAc;EACV,OAAO,EAAE,QAAQ;EAEjB,8CAAc;IACV,gBAAgB,EAAE,sBAAsB;IAExC,mEAAqB;MACjB,SAAS,EAAE,MAAM;MACjB,WAAW,EAAE,GAAG;MAChB,KAAK,ECIH,OAA6B;MDH/B,UAAU,EAAE,eAAe;EAQ3B,uKAAqB;IACjB,KAAK,ECNP,OAA6B;IDO3B,UAAU,EAAE,eAAe;EAMnC,2DAAc;IACV,OAAO,EAAE,SAAS",
+"sources": ["faq-1.scss","../../global/_functions.scss"],
+"names": [],
+"file": "faq-1.css"
+}

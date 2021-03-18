@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "static/css/main.7ee4a4c1.chunk.css",
+    "main.js": "static/js/main.a312f458.chunk.js",
+    "main.js.map": "static/js/main.a312f458.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.576d7bf7.js",
+    "runtime-main.js.map": "static/js/runtime-main.576d7bf7.js.map",
+    "static/css/2.fc921428.chunk.css": "static/css/2.fc921428.chunk.css",
+    "static/js/2.aeec037c.chunk.js": "static/js/2.aeec037c.chunk.js",
+    "static/js/2.aeec037c.chunk.js.map": "static/js/2.aeec037c.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.77494b95c0bc673cf6abd160362f254d.js": "precache-manifest.77494b95c0bc673cf6abd160362f254d.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.fc921428.chunk.css.map": "static/css/2.fc921428.chunk.css.map",
+    "static/css/main.7ee4a4c1.chunk.css.map": "static/css/main.7ee4a4c1.chunk.css.map",
+    "static/js/2.aeec037c.chunk.js.LICENSE.txt": "static/js/2.aeec037c.chunk.js.LICENSE.txt",
+    "static/js/main.a312f458.chunk.js.LICENSE.txt": "static/js/main.a312f458.chunk.js.LICENSE.txt",
+    "static/media/Roboto-Bold.ttf": "static/media/Roboto-Bold.e07df86c.ttf",
+    "static/media/index.scss": "static/media/socicon.a35b6574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.576d7bf7.js",
+    "static/css/2.fc921428.chunk.css",
+    "static/js/2.aeec037c.chunk.js",
+    "static/css/main.7ee4a4c1.chunk.css",
+    "static/js/main.a312f458.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+<?php if(!empty($main_view)) {$this->load->view('main/'.$main_view);} ?>

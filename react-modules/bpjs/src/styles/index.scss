@@ -1,0 +1,75 @@
+// 3rd-party Plugins
+@import "splashscreen";
+@import '~rc-easyui/dist/themes/default/easyui.css';
+@import '~rc-easyui/dist/themes/react.css';
+@import '~rc-easyui/dist/themes/icon.css';
+@import "./Base";
+@import "~highlight.js/styles/googlecode.css";
+@import "~perfect-scrollbar/css/perfect-scrollbar.css";
+@import "~socicon/css/socicon.css";
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+//@import "./plugins/line-awesome/css/line-awesome.css";
+//@import "./plugins/flaticon/flaticon.css";
+//@import "./plugins/flaticon2/flaticon.css";
+// Theme Styles
+@import "./style.react.scss";
+@import "./bracket";
+@import "./custom";
+
+td> a {
+  margin-right: 10px!important;
+}
+
+@media (max-width: 600px) {
+  td> a {
+    margin-top: 10px!important;
+  }
+}
+
+.table-counts {
+  font-size: 14px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.MuiTableCell-root{
+  padding: 7px !important;
+}
+
+
+.table-body {
+  .table-row {
+    background-color: #fff;
+  }
+
+  .table-row:nth-child(2n) {
+    background: #eee;
+  }
+}
+
+
+.MuiAutocomplete-popper{
+  z-index: 99999!important;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-white {
+  color: #fff;
+}
+
+
+// Theme hack for jeasy ui css..
+.menu {
+  position: relative !important;
+  padding: 0!important;
+  border-style: none!important;
+}
+// END OF THEME HACK
+
+.hidden {
+  display: none !important;
+}
